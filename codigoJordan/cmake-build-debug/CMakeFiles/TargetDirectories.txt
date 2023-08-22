@@ -1,0 +1,3 @@
+/Users/eduardoquintero/CLionProjects/codigoJordan/cmake-build-debug/CMakeFiles/codigoJordan.dir
+/Users/eduardoquintero/CLionProjects/codigoJordan/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/eduardoquintero/CLionProjects/codigoJordan/cmake-build-debug/CMakeFiles/rebuild_cache.dir

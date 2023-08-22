@@ -1,0 +1,5 @@
+# ninja log v5
+6177	6392	1674071924881032532	ProyectoTienda	e08da7daf92d397
+0	301	1687709193425468271	build.ninja	28039b1051b7e51d
+9	100	1674001640592226710	CMakeFiles/ProyectoTienda.dir/nuevaClase.cpp.o	c9b4f5cc6b1edcf0
+8	6176	1674071924640111193	CMakeFiles/ProyectoTienda.dir/main.cpp.o	d635c0fdb24659b0

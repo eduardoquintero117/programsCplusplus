@@ -1,0 +1,3 @@
+/Users/eduardoquintero/CLionProjects/tempo/cmake-build-debug/CMakeFiles/tempo.dir
+/Users/eduardoquintero/CLionProjects/tempo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/eduardoquintero/CLionProjects/tempo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
